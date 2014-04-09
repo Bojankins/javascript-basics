@@ -1,0 +1,13 @@
+Function 8x  input-optional-many [fn] output-max1
+
+fn square   3---> square ---> 9
+
+keyword function square(input-x) 
+
+var y = x*x
+
+keyword return y for output
+
+1 create funcion
+
+2 call funtion by var(square)
